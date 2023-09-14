@@ -5,4 +5,6 @@ This repository has 3 different solution the first one [here](n2solution_two_loo
 
 The second one solution [here](n2solution_divide_conquer.py) was using divide and conquer gaining a big O(n*logn) to try to reduce the length of the array and make the algorithm a little faster than O(n²). In worst case this algorithm is going to be O(n²) 
 
+The finally solution faster than the others [here](n_solution_using_hashtable.py) , in this case it is using a loop with hashtable to see if the complement exists and in this way reduce to O(n)
+
 
